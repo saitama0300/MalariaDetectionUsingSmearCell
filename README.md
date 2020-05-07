@@ -1,4 +1,4 @@
-Malaria Detection Using SmearCell
+<p1>Malaria Detection Using SmearCell</p1>
 
 The Project aims at detecting Malarial Parasites on a Dataset of segmented cells from the thin blood smear slide images from the Malaria Screener research activity using Deep Learning. The dataset was obtained from the National Library of Medicine which works under the U.S Department of Health and Human Services.
 
